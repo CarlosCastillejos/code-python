@@ -1,6 +1,6 @@
 # Herramienta para escaneo de puertos con Python
 # Complete Ethical Hacking Bootcamp 2022: Zero to Mastery
-# Curso de Aleksa Tamburkovski en Udemy
+# Curso de Andrei Neagoie en Udemy
 
 import socket
 
